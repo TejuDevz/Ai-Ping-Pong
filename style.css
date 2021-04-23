@@ -15,6 +15,18 @@
   border: 1px solid white;
 }
 
-.start {
+.start,
+.restart {
   font-size: 18px;
+}
+
+.modal-dialog {
+  width: 90%;
+}
+
+.footer {
+  bottom: 0;
+  background-color: white;
+  color: black;
+  line-height: 3;
 }
